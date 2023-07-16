@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-auto-canvas",
+	"name": "Auto Canvas",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Automatically adds items to a canvas when created in a given folder. Supports a one-to-one mapping from folder to canvas.",
+	"author": "Obsidian",
+	"authorUrl": "https://github.com/prestsauce",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}

@@ -1,0 +1,22 @@
+
+.auto-canvas-settings__new-input-container {
+    width: 100%;
+    display: flex;
+	justify-content: space-between;
+	padding: 0.5em 0;
+}
+
+
+
+.auto-canvas-settings__new-input {
+    flex-grow: 1;
+    margin-right: 1em;
+}
+
+.auto-canvas-settings__new-map-button {
+    width: 100%;
+}
+
+.auto-canvas-settings__remove-map-button {
+
+}
