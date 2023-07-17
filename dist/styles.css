@@ -1,6 +1,12 @@
 
-.auto-canvas-settings__new-input-container {
+.auto-canvas-settings__row-container {
     width: 100%;
+    display: flex;
+	justify-content: space-between;
+	padding: 0.5em 0;
+}
+
+.auto-canvas-settings__input-container {
     display: flex;
 	justify-content: space-between;
 	padding: 0.5em 0;
